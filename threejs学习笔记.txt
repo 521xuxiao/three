@@ -1,0 +1,9 @@
+1、parcel web打包工具  网址：https://www.parceljs.cn/
+
+2、gsap动画
+
+3、dat.gui的右上角修改参数的框
+
+4、下载现成的贴图网站  1、https://www.poliigon.com/   2、https://www.arroway-textures.ch/  3、是一个软件 Quixel Bridge
+
+5、人工智能插件： Github Tabnine
